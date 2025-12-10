@@ -191,7 +191,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG TUYEN (NLS)</h1>
-    <p>Tác giả: Nguyễn Văn Tuyên Trường PTDTBT Tiểu hoc Ngam La</p>
+    <p>Tác giả: Nguyễn Văn Tuyên Trường PTDTBT Tiểu hoc Ngam La - sđt 0983923809</p>
 </div>
 """, unsafe_allow_html=True)
 
