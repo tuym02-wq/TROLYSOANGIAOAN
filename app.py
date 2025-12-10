@@ -190,7 +190,7 @@ st.markdown("""
 # --- 4. GIAO DIỆN CHÍNH ---
 st.markdown("""
 <div class="main-header">
-    <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
+    <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG TUYEN (NLS)</h1>
     <p>Tác giả: Nguyễn Văn Tuyên Trường PTDTBT Tiểu hoc Ngam La</p>
 </div>
 """, unsafe_allow_html=True)
